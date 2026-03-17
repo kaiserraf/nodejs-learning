@@ -1,0 +1,7 @@
+// documentos .cjs -> arquivos common js
+//    modelo antigo
+// documentos .mjs -> ecma
+//    modulo mais novo
+_________________________________________________________
+
+utilizados mais para se localizar e conhecer o projeto
