@@ -1,0 +1,16 @@
+{
+  "name": "07-npm-scripts-e-variaveis-ambiente",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "run": "node src/index.js",
+    "limdo": "echo \"sou limdo\"",
+    "watch": "node --watch src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module"
+}
