@@ -78,6 +78,7 @@ Estudos focados na conexão e manipulação de dados em um banco de dados relaci
 - **Frameworks Web:** Criação de rotas, middlewares e tratamento de requisições com **Fastify**.
 - **Banco de Dados:** Conexão com **PostgreSQL**, execução de queries e gerenciamento de pools.
 - **Boas Práticas:** Organização de pastas (src/services/utils), uso de `.env` para segurança e scripts NPM automatizados.
+- **Valicação JWT:** autenticação de serviços com JWT, prevendo quem pode ou não acessar alguma rota
 
 ---
 
